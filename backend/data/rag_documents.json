@@ -1,0 +1,47 @@
+[
+  {
+    "text": "한빛생명보험에서 IFRS17 계리결산 주니어 Actuary를 채용합니다. 필수 스킬은 보험수리 기초, Excel, SQL, Python, IFRS17 기본 이해, 데이터 검증입니다. 우대 스킬: 보험계리사 1차 합격, Prophet 사용 경험, 통계학·수학·보험계리 전공. 업무 내용: IFRS17 기준 보험부채 결산 보조, CSM 변동 분석, 기초데이터 검증 및 결산 리포트 작성 업무를 수행합니다.",
+    "metadata": {
+      "id": "1",
+      "company": "한빛생명보험",
+      "title": "IFRS17 계리결산 주니어 Actuary",
+      "job_type": "정규직",
+      "deadline": "채용시 마감",
+      "source": "jobs.csv",
+      "deadline_month": "",
+      "is_startup": "false",
+      "first_saved_date": "2026-07-06"
+    },
+    "doc_id": "job_1"
+  },
+  {
+    "text": "다온손해보험에서 장기보험 상품계리 및 수익성 분석 담당를 채용합니다. 필수 스킬은 통계분석, Excel, SQL, Python, 보험상품 구조 이해, 손해율 분석입니다. 우대 스킬: R 또는 SAS 활용 경험, 보험계리사 준비 경험, 장기손해보험 상품개발 인턴 경험. 업무 내용: 장기보험 신상품 개발을 위한 위험률 분석, 손해율 모니터링, 상품 수익성 검증 및 기초 통계자료 작성 업무를 수행합니다.",
+    "metadata": {
+      "id": "2",
+      "company": "다온손해보험",
+      "title": "장기보험 상품계리 및 수익성 분석 담당",
+      "job_type": "정규직",
+      "deadline": "2026-08-31",
+      "source": "jobs.csv",
+      "deadline_month": "08",
+      "is_startup": "false",
+      "first_saved_date": "2026-07-06"
+    },
+    "doc_id": "job_2"
+  },
+  {
+    "text": "케이리재보험에서 Valuation 및 K-ICS 리스크 분석 Assistant를 채용합니다. 필수 스킬은 보험계리 기초, K-ICS 기본 이해, Excel, SQL, Python, 현금흐름 데이터 분석입니다. 우대 스킬: Prophet 또는 계리 모델링 툴 경험, SAS/VBA 활용 가능, 영어 문서 독해 가능. 업무 내용: K-ICS 보험리스크 산출, 재보험 계약 관련 현금흐름 분석, Valuation 자료 검증 및 리스크 리포팅 업무를 지원합니다.",
+    "metadata": {
+      "id": "3",
+      "company": "케이리재보험",
+      "title": "Valuation 및 K-ICS 리스크 분석 Assistant",
+      "job_type": "계약직",
+      "deadline": "2026-09-15",
+      "source": "jobs.csv",
+      "deadline_month": "09",
+      "is_startup": "false",
+      "first_saved_date": "2026-07-06"
+    },
+    "doc_id": "job_3"
+  }
+]
